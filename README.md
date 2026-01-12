@@ -1,0 +1,2 @@
+# MediGuide-Offline-AI-Powered-Offline-Medical-Guidance-and-Drug-Interaction-System
+In many remote and resource-limited regions, access to medical information is constrained by poor internet connectivity. MediGuide Offline is an AI-driven system that provides offline drug interaction checks and medical guidance using a FastAPI backend, JavaScript frontend, and local AI models with preprocessed offline medical datasets.
